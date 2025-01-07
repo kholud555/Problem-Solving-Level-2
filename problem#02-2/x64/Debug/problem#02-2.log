@@ -1,0 +1,3 @@
+﻿  problem#02-2.cpp
+D:\Documents\c++\problems solving level 2\problem#02-2\problem#02-2.cpp(20,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  problem#02-2.vcxproj -> D:\Documents\c++\problems solving level 2\problem#02-2\x64\Debug\problem#02-2.exe
